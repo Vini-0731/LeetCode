@@ -6,5 +6,5 @@ DENSE_RANK() OVER(PARTITION BY department.name ORDER BY salary DESC) AS 'rank'
 FROM employee 
 JOIN department 
 ON employee.departmentid=department.id) t
-WHERE t.rank<=3
+WHERE t.rank<=3;
 
