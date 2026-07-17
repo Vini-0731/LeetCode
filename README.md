@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/Vini-0731/practice/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/Vini-0731/practice/tree/master/1341-movie-rating) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Vini-0731/practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vini-0731/practice/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Vini-0731/practice/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
