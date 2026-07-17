@@ -1,5 +1,11 @@
-SELECT product_id, 
-COALESCE((SELECT new_price FROM products p2 
-         WHERE p1.product_id=p2.product_id AND p2.change_date<='2019-08-16' 
-         ORDER BY p2.change_date DESC LIMIT 1),10) AS price 
-FROM (SELECT DISTINCT product_id FROM products)p1
+SELECT product_id,new_price AS price FROM  products
+WHERE (product_id,change_date) IN (SELECT product_id,MAX(change_date) FROM products
+             WHERE change_date<='2019-08-16'
+             GROUP BY product_id)
+
+UNION             
+
+SELECT product_id,10 AS price
+FROM products
+GROUP BY product_id
+HAVING COUNT(CASE WHEN change_date <= '2019-08-16' THEN 1 end)=0
