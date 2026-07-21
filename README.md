@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0185-department-top-three-salaries](https://github.com/Vini-0731/practice/tree/master/0185-department-top-three-salaries) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Vini-0731/practice/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/Vini-0731/practice/tree/master/0577-employee-bonus) |
+| [1045-customers-who-bought-all-products](https://github.com/Vini-0731/practice/tree/master/1045-customers-who-bought-all-products) |
 | [1164-product-price-at-a-given-date](https://github.com/Vini-0731/practice/tree/master/1164-product-price-at-a-given-date) |
 | [1251-average-selling-price](https://github.com/Vini-0731/practice/tree/master/1251-average-selling-price) |
 | [1341-movie-rating](https://github.com/Vini-0731/practice/tree/master/1341-movie-rating) |
