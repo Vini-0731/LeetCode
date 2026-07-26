@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0607-sales-person](https://github.com/Vini-0731/practice/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Vini-0731/practice/tree/master/0619-biggest-single-number) |
 | [1045-customers-who-bought-all-products](https://github.com/Vini-0731/practice/tree/master/1045-customers-who-bought-all-products) |
+| [1158-market-analysis-i](https://github.com/Vini-0731/practice/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Vini-0731/practice/tree/master/1164-product-price-at-a-given-date) |
 | [1251-average-selling-price](https://github.com/Vini-0731/practice/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Vini-0731/practice/tree/master/1280-students-and-examinations) |
