@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Vini-0731/practice/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Vini-0731/practice/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Vini-0731/practice/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Vini-0731/practice/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Vini-0731/practice/tree/master/1045-customers-who-bought-all-products) |
 | [1158-market-analysis-i](https://github.com/Vini-0731/practice/tree/master/1158-market-analysis-i) |
 | [1164-product-price-at-a-given-date](https://github.com/Vini-0731/practice/tree/master/1164-product-price-at-a-given-date) |
