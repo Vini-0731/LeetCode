@@ -4,4 +4,4 @@ FROM users
 JOIN transactions 
 ON users.account=transactions.account
 GROUP BY transactions.account
-HAVING balance>10000
+HAVING SUM(transactions.amount)>10000
