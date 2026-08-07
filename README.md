@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Vini-0731/practice/tree/master/1741-find-total-time-spent-by-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Vini-0731/practice/tree/master/1873-calculate-special-bonus) |
 | [1965-employees-with-missing-information](https://github.com/Vini-0731/practice/tree/master/1965-employees-with-missing-information) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vini-0731/practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Array
 |  |
 | ------- |
