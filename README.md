@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1164-product-price-at-a-given-date](https://github.com/Vini-0731/practice/tree/master/1164-product-price-at-a-given-date) |
 | [1193-monthly-transactions-i](https://github.com/Vini-0731/practice/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Vini-0731/practice/tree/master/1204-last-person-to-fit-in-the-bus) |
+| [1211-queries-quality-and-percentage](https://github.com/Vini-0731/practice/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Vini-0731/practice/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/Vini-0731/practice/tree/master/1280-students-and-examinations) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Vini-0731/practice/tree/master/1327-list-the-products-ordered-in-a-period) |
