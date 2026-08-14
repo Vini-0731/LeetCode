@@ -1,4 +1,2 @@
-select user_id,max(time_stamp) as last_stamp 
-from logins 
-where time_stamp like '2020%' 
-GROUP BY user_id
+# Write your MySQL query statement below
+select user_id,max(time_stamp) as last_stamp from logins where year(time_stamp)='2020'group by user_id
