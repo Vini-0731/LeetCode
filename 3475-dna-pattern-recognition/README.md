@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/dna-pattern-recognition">3816. DNA Pattern Recognition </a></h2><h3>Medium</h3><hr><p>Table: <code>Samples</code></p>
+<h2><a href="https://leetcode.com/problems/dna-pattern-recognition">3475. DNA Pattern Recognition </a></h2><h3>Medium</h3><hr><p>Table: <code>Samples</code></p>
 
 <pre>
 +----------------+---------+
