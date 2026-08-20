@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Vini-0731/practice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/Vini-0731/practice/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/Vini-0731/practice/tree/master/0177-nth-highest-salary) |
@@ -69,48 +69,48 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3220-odd-and-even-transactions](https://github.com/Vini-0731/LeetCode/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3436-find-valid-emails](https://github.com/Vini-0731/practice/tree/master/3436-find-valid-emails) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Vini-0731/practice/tree/master/0001-two-sum) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Vini-0731/practice/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/Vini-0731/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/Vini-0731/practice/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Vini-0731/practice/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Vini-0731/practice/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Vini-0731/practice/tree/master/0509-fibonacci-number) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/Vini-0731/practice/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/Vini-0731/practice/tree/master/0509-fibonacci-number) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0125-valid-palindrome](https://github.com/Vini-0731/practice/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Vini-0731/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0058-length-of-last-word](https://github.com/Vini-0731/practice/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Vini-0731/practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vini-0731/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Vini-0731/LeetCode/tree/main/0344-reverse-string/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Vini-0731/practice/tree/master/0509-fibonacci-number) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Vini-0731/practice/tree/master/0509-fibonacci-number) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0242-valid-anagram](https://github.com/Vini-0731/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 <!---LeetCode Topics End-->
