@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Vini-0731/practice/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Vini-0731/LeetCode/tree/main/3220-odd-and-even-transactions/) | Medium |
 | [3436-find-valid-emails](https://github.com/Vini-0731/practice/tree/master/3436-find-valid-emails) |
+| [3475-dna-pattern-recognition](https://github.com/Vini-0731/LeetCode/tree/master/3475-dna-pattern-recognition) |
 ## Array
 |  |
 | ------- |
