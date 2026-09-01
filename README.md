@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Vini-0731/practice/tree/master/0001-two-sum) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vini-0731/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Vini-0731/practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Vini-0731/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Vini-0731/LeetCode/tree/main/0344-reverse-string/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vini-0731/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3110-score-of-a-string](https://github.com/Vini-0731/LeetCode/tree/main/3110-score-of-a-string/) | Easy |
 ## Dynamic Programming
 |  |
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Vini-0731/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+## Simulation
+|  |
+| ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/Vini-0731/LeetCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
